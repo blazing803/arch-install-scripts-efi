@@ -1,3 +1,7 @@
+IMPORTANT: Check your disks first
+
+Before running these scripts, run lsblk to see all drives on your system:
+
 The scripts were made by me with AI assistance.
 before you start the installation using these scripts.
 You either got to plug your computer into Ethernet, or connect it to Wi-Fi.
